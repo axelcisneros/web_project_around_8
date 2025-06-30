@@ -1,6 +1,6 @@
 # Tripleten web_project_around
 
-<https://axelcisneros.github.io/web_project_around_initial/>
+<https://axelcisneros.github.io/web_project_around_8/>
 
 ## Proyecto 5: Galeria de arte Triple Ten
 
